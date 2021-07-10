@@ -1,4 +1,4 @@
-﻿namespace Calculator.Tests
+﻿namespace Calculator.Library
 {
     public class Calculate
     {

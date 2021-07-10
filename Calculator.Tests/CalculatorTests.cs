@@ -1,7 +1,7 @@
 using FluentAssertions;
 using Xunit;
 
-namespace Calculator.Tests
+namespace Calculator.Library
 {
     public class CalculatorTests
     {
